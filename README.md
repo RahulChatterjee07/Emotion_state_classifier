@@ -8,8 +8,13 @@ This project is about emotion state classification of human subjects using singl
 
 1. README.md - Summary information for this project.
 2. EEG_Emotion Analysis.py - Project code.
-3. Data.csv - Filtered EEG data.
+3. Sub.csv - Filtered EEG data.
 4. Report.pdf - Results and detailed information.
+
+[*] Softwares used:
+
+1. Jupyter Notebook
+2. OpenVibe
 
 [*] Packages used:
 
